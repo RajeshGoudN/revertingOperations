@@ -1,0 +1,8 @@
+2025-03-08 16:44:02,176 - INFO - package: mysql.connector.plugins
+2025-03-08 16:44:02,176 - INFO - plugin_name: caching_sha2_password
+2025-03-08 16:44:02,176 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-03-08 16:44:02,192 - INFO - successfully connected
+2025-03-08 16:44:22,201 - INFO - package: mysql.connector.plugins
+2025-03-08 16:44:22,201 - INFO - plugin_name: caching_sha2_password
+2025-03-08 16:44:22,201 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-03-08 16:44:22,211 - ERROR - 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
